@@ -1,6 +1,6 @@
-# stopwatch
+# count-up timer
 
-This is a crescent stopwatch made in language C. 
+This is a count-up timer made in language C. 
 
 
 Source Code: https://www.youtube.com/watch?v=RlNwhYcEzM4
